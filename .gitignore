@@ -83,4 +83,4 @@ Chart.lock
 node_modules/
 
 # Data
-/data/postgres-data/*
+/dags/data/postgres-data/*
