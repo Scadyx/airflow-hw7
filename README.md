@@ -1,4 +1,3 @@
-# PM Academy Apache Airflow practice
 
 ## Quick start guide
 
